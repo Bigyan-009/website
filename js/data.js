@@ -10,7 +10,7 @@ var data = {
     {name: 'City', value: 'Damak'}
   ],
   github: [
-    {name: 'GitHub', value: 'Bigyan-009'}
+    {name: 'GitHub', value: 'https://github.com/Bigyan-009'}
   ],
   projects: [],
   resume: 'Bigyan_Dahal.pdf',
